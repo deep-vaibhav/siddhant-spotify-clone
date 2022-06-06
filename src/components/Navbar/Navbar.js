@@ -5,7 +5,7 @@ import "./Navbar.scss";
 function Navbar() {
   return (
     <div className="navbar">
-      <Link to="/home">
+      <Link to="/">
         <p className="link">Home</p>
       </Link>
 
